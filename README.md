@@ -40,4 +40,4 @@ The notebook covers the following sections:
 
 ## Dataset
 
-The dataset used in this project is included within the notebook. Ensure that the dataset file `mhealth_raw_data.csv` is present in the same directory as the notebook.
+The dataset used in this project is included within the notebook. (https://www.kaggle.com/datasets/gaurav2022/mobile-health?resource=download)
