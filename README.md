@@ -1,4 +1,4 @@
-# Machine Learning Project
+# Machine Learning Projectc Using MHEALTH Dataset
 
 This repository contains a notebook demonstrating a comprehensive machine learning workflow, from data loading and preprocessing to model training and evaluation.
 
